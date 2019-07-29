@@ -260,7 +260,7 @@ header {
     background-position: center center;
     height: calc(100vh - 217px);
     min-height: 700px;
-    position: relative; }
+    position: absolute; }
     .owl-carousel.home-slider .slider-item:before {
       position: absolute;
       top: 0;
